@@ -1,4 +1,4 @@
-# Potato: The Package You Don't Have to Install
+# Potato: A Lightweight Tool for Debugging and Testing Python Code
 
 ## What is Potato?
 
