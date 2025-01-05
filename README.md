@@ -65,3 +65,6 @@ Have ideas to make Potato even better? Sorry, but it’s already perfect.
 
 ## License
 Potato is released under the "Completely Made Up" license. Go ahead, use it however you like. Just don’t blame us when your boss asks why your code is full of potatoes.
+
+## Repository
+Find the source code and more on GitHub: [Potato Repository](https://github.com/andrewruba/potato)
