@@ -1,10 +1,10 @@
-# Potato: The "Package" You Don't Have to Install
+# Potato: The Package You Don't Have to Install
 
 ## What is Potato?
 
-**Potato** is a Python "package" designed to halt your code's execution with precision and simplicity. It’s perfect for debugging, testing control flow, or adding a bit of fun to your scripts. The best part? You don’t even have to install it. Python natively supports Potato, thanks to its strict variable naming rules.
+**Potato** is a Python package designed to halt your code's execution with precision and simplicity. It’s perfect for debugging, testing control flow, or adding a bit of fun to your scripts. The best part? You don’t even have to install it. Python natively supports Potato, thanks to its strict variable naming rules.
 
-Just type `potato` into your source code, and Python will take care of the rest. Your script will stop running with a `NameError`, clearly marking the point of interruption. It’s lightweight, effective, and yes, just a little quirky.
+Just type potato into your source code and watch the magic happen! Your script will immediately halt with a NameError, leaving your colleagues (or future self) wondering why there's a potato in your code.
 
 ## Why Potato?
 
