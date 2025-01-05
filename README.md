@@ -1,4 +1,4 @@
-# Potato: A Lightweight Tool for Debugging and Testing Python Code
+# Potato: A Lightweight Python Library for Debugging and Testing Python Code
 
 ## What is Potato?
 
