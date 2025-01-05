@@ -2,16 +2,16 @@
 
 ## What is Potato?
 
-**Potato** is the revolutionary new Python "package" that does absolutely nothing... except stop your code from running! And the best part? You don’t even have to install it. Python natively supports Potato, thanks to its strict variable naming rules.
+**Potato** is a Python "package" designed to halt your code's execution with precision and simplicity. It’s perfect for debugging, testing control flow, or adding a bit of fun to your scripts. The best part? You don’t even have to install it. Python natively supports Potato, thanks to its strict variable naming rules.
 
-Just type `potato` into your source code and watch the magic happen! Your script will immediately halt with a `NameError`, leaving your colleagues (or future self) wondering why there's a potato in your code.
+Just type `potato` into your source code, and Python will take care of the rest. Your script will stop running with a `NameError`, clearly marking the point of interruption. It’s lightweight, effective, and yes, just a little quirky.
 
 ## Why Potato?
 
 - **Zero Dependencies**: Potato requires absolutely no installations or updates.
 - **Lightweight**: Takes up 0 bytes of storage.
 - **Instant Debugging**: Clearly marks the exact point in your code where Potato strikes.
-- **Fun for Everyone**: Confuse your friends, co-workers, and even your future self with a randomly placed `potato`!
+- **Fun for Everyone**: Confuse your friends, co-workers, and even your future self with a well-placed `potato`!
 
 ## Installation
 
@@ -58,11 +58,10 @@ potato
 ```
 
 ## Disclaimer
-Potato is not responsible for lost productivity, broken pipelines, or puzzled colleagues. Use responsibly.
+Potato is not responsible for lost productivity, broken pipelines, or puzzled colleagues. Use responsibly (or irresponsibly, it’s up to you).
 
 ## Contribute
 Have ideas to make Potato even better? Sorry, but it’s already perfect.
 
 ## License
 Potato is released under the "Completely Made Up" license. Go ahead, use it however you like. Just don’t blame us when your boss asks why your code is full of potatoes.
-
