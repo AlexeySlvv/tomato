@@ -1,70 +1,67 @@
-# Potato: A Lightweight Tool for Debugging and Testing Python Code
+# Tomato: A Lightweight Tool for Debugging and Testing Python Code
 
-## What is Potato?
+## What is Tomato?
 
-**Potato** is a Python package designed to halt your code's execution with precision and simplicity. It’s perfect for debugging, testing control flow, or adding a bit of fun to your scripts. The best part? You don’t even have to install it. Python natively supports Potato, thanks to its strict variable naming rules.
+**Tomato** is a Python package designed to halt your code's execution with precision and simplicity. It’s perfect for debugging, testing control flow, or adding a bit of fun to your scripts. The best part? You don’t even have to install it. Python natively supports Tomato, thanks to its strict variable naming rules.
 
-Just type potato into your source code and watch the magic happen! Your script will immediately halt with a NameError, leaving your colleagues (or future self) wondering why there's a potato in your code.
+Just type tomato into your source code and watch the magic happen! Your script will immediately halt with a NameError, leaving your colleagues (or future self) wondering why there's a tomato in your code.
 
-## Why Potato?
+## Why Tomato?
 
-- **Zero Dependencies**: Potato requires absolutely no installations or updates.
+- **Zero Dependencies**: Tomato requires absolutely no installations or updates.
 - **Lightweight**: Takes up 0 bytes of storage.
-- **Instant Debugging**: Clearly marks the exact point in your code where Potato strikes.
-- **Fun for Everyone**: Confuse your friends, co-workers, and even your future self with a well-placed `potato`!
+- **Instant Debugging**: Clearly marks the exact point in your code where Tomato strikes.
+- **Fun for Everyone**: Confuse your friends, co-workers, and even your future self with a well-placed `tomato`!
 
 ## Installation
 
-There is no installation. Python comes with Potato pre-installed. Simply open your favorite Python script and start typing `potato`.
+There is no installation. Python comes with Tomato pre-installed. Simply open your favorite Python script and start typing `tomato`.
 
 ## Usage
 
 ### Example 1: Halting a Script
 ```python
-print("Hello, world!")
-potato
-print("This will never run.")
+print("Hello, Tomato!")
+tomato
+print("There is no tomato.")
 ```
 
 **Output:**
 ```
-Hello, world!
+Hello, Tomato!
 Traceback (most recent call last):
-  File "example.py", line 2, in <module>
-    potato
-NameError: name 'potato' is not defined
+  File "example1.py", line 2, in <module>
+    tomato
+NameError: name 'tomato' is not defined
 ```
 
 ### Example 2: Asserting Dominance in the Codebase
 ```python
-if user_input == "42":
-    print("You cracked the ultimate answer!")
+if input() == "21":
+    print("This is Blackjack!")
 else:
-    potato
+    tomato
 ```
 
 **Output:**
 ```
 Traceback (most recent call last):
-  File "example.py", line 4, in <module>
-    potato
-NameError: name 'potato' is not defined
+  File "example2.py", line 4, in <module>
+    tomato
+NameError: name 'tomato' is not defined
 ```
 
 ### Example 3: Leaving Easter Eggs
 ```python
-# TODO: Replace potato with actual logic later
-potato
+# TODO: Replace tomato with actual logic later
+tomato
 ```
 
 ## Disclaimer
-Potato is not responsible for lost productivity, broken pipelines, or puzzled colleagues. Use responsibly (or irresponsibly, it’s up to you).
-
-## Contribute
-Have ideas to make Potato even better? Sorry, but it’s already perfect.
+ is not responsible for lost productivity, broken pipelines, or puzzled colleagues. Use responsibly (or irresponsibly, it’s up to you).
 
 ## License
-Potato is released under the "Completely Made Up" license. Go ahead, use it however you like. Just don’t blame us when your boss asks why your code is full of potatoes.
+ is released under the "Completely Made Up" license. Go ahead, use it however you like. Just don’t blame us when your boss asks why your code is full of tomatoes.
 
 ## Repository
-Find the source code and more on GitHub: [Potato Repository](https://github.com/andrewruba/potato)
+Find the source code and more on GitHub: [Tomato Repository](https://github.com/AlexeySlvv/tomato)
