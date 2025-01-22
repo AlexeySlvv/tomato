@@ -58,7 +58,7 @@ tomato
 ```
 
 ## Disclaimer
- is not responsible for lost productivity, broken pipelines, or puzzled colleagues. Use responsibly (or irresponsibly, it’s up to you).
+Tomato is not responsible for lost productivity, broken pipelines, or puzzled colleagues. Use responsibly (or irresponsibly, it’s up to you).
 
 ## License
 Tomato is released under the "Completely Made Up" license. Go ahead, use it however you like. Just don’t blame us when your boss asks why your code is full of tomatoes.
