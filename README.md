@@ -61,7 +61,7 @@ tomato
  is not responsible for lost productivity, broken pipelines, or puzzled colleagues. Use responsibly (or irresponsibly, it’s up to you).
 
 ## License
- is released under the "Completely Made Up" license. Go ahead, use it however you like. Just don’t blame us when your boss asks why your code is full of tomatoes.
+Tomato is released under the "Completely Made Up" license. Go ahead, use it however you like. Just don’t blame us when your boss asks why your code is full of tomatoes.
 
 ## Repository
 Find the source code and more on GitHub: [Tomato Repository](https://github.com/AlexeySlvv/tomato)
